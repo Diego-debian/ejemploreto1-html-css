@@ -172,6 +172,12 @@ html {
     background-color: burlywood;
 }
 
+/* over Estilos para el encabezado dentro de las cajas */
+.caja h2:hover {
+    line-height: 300px;
+    text-align: center;
+    background-color: rgb(245, 144, 13);
+}
 /* Barra lateral:
    - Define su tamaño y apariencia
    - Añade barra de desplazamiento vertical */
